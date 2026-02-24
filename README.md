@@ -8,6 +8,8 @@
 
 
 [專題海報](https://github.com/luyuxuan0414/Intelligent_Toilet.github.io/blob/main/%E5%B0%88%E9%A1%8C%E6%B5%B7%E5%A0%B1.pdf)
+
 [導覽網站](https://luyuxuan0414.github.io/Intelligent_Toilet.github.io/Intelligent_Toilet/)
+
 [功能介紹影片](https://www.youtube.com/watch?v=HLnQyVk6eM4&list=PLhxes5Eilr_XZLR6CmJ95divvSMp-gzTq&index=7)
 
