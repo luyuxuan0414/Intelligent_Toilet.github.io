@@ -6,9 +6,14 @@
 同時，對於管理者，我們提供了更有效率的管理方式，以提高清潔和維護效率。
 本系統旨在為使用者提供安全、舒適的廁所體驗，同時為管理者提供更有效率的管理方案
 
-# 功能流程圖與模型圖
+# 功能流程圖
 
-<img width="401" height="522" alt="image" src="https://github.com/user-attachments/assets/80e76e73-1628-4029-8542-478a629ead2b" />
+<img width="365" height="244" alt="image" src="https://github.com/user-attachments/assets/7776940c-fe0f-4650-9dca-d9a9ef326956" />
+
+# 模型圖
+<img width="389" height="232" alt="image" src="https://github.com/user-attachments/assets/94bb2875-f8c5-44df-b26e-9b66d552e2ab" />
+
+
 
 
 
