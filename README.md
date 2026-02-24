@@ -6,6 +6,11 @@
 同時，對於管理者，我們提供了更有效率的管理方式，以提高清潔和維護效率。
 本系統旨在為使用者提供安全、舒適的廁所體驗，同時為管理者提供更有效率的管理方案
 
+# 功能流程圖與模型圖
+
+<img width="401" height="522" alt="image" src="https://github.com/user-attachments/assets/80e76e73-1628-4029-8542-478a629ead2b" />
+
+
 
 [專題海報](https://github.com/luyuxuan0414/Intelligent_Toilet.github.io/blob/main/%E5%B0%88%E9%A1%8C%E6%B5%B7%E5%A0%B1.pdf)
 
